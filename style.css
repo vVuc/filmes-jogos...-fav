@@ -1,0 +1,84 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/482/217/122/5bd02d1907fdc-wallpaper-preview.jpg");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  body > img {
+    margin: 0 10px;
+  }
+  
+  img {
+    max-height: 250px;
+  }
+  
+  .test {
+    width: 100%;
+    margin-top: 10px;
+  }
+  p {
+    font-family: Arial;
+    text-align: center;
+    color: #ffffff;
+    font-size: 18px;
+  }
+  button {
+    margin-top: 12px;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: #000;
+    background: #1c1c1c;
+    color: #fff;
+    letter-spacing: 1px;
+    width: 100px;
+  }
+  
+  button:hover {
+    transition: 1s ease all;
+    background: #b22222;
+  }
+  img {
+    max-height: 250px;
+    padding: 15px;
+  }
+  img:hover {
+    transform: scale(1.2);
+    overflow: hidden;
+  }
+  input {
+    margin: 10px;
+    padding: 6px;
+    border-radius: 5px;
+    width: 240px;
+  }
+  
